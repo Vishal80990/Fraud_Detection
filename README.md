@@ -1,4 +1,4 @@
-# Project Name: Fraud Detection Analytics
+# Project Name: Fraud Detection Analytics (I Have used FDC Product for this use case, Want to know about FDC navigate to - www.fosfor.com.)
 
 Use-case Brief: Fraud detection is critical for financial institutions to protect their assets and maintain customer trust. 
 Identifying fraudulent transactions quickly and accurately can prevent significant financial losses and enhance security measures. 
